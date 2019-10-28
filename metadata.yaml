@@ -1,0 +1,38 @@
+_repo: The-Chaldean-Account-of-Genesis-Containing-the-description-of-the-creation-the-fall-of-man-th__60559
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sayce, A. H. (Archibald Henry)
+    aliases:
+    - Sayce, Archibald Henry
+    - Sayce, A.H.
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4759'
+    url: http://www.gutenberg.org/2009/agents/4759
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
+  - agent_name: Smith, George
+    birthdate: 1833
+    deathdate: 1919
+    gutenberg_agent_id: '804'
+    url: http://www.gutenberg.org/2009/agents/804
+    wikipedia: https://en.wikipedia.org/wiki/George_Smith_(1833%E2%80%931919)
+description: ''
+gutenberg_issued: '2019-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Chaldean Account of Genesis
+
+  Containing the description of the creation, the fall of
+
+  man, the deluge, the tower of Babel, the times of the
+
+  patriarchs'
+url: http://www.gutenberg.org/ebooks/60559
